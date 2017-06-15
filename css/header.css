@@ -1,0 +1,86 @@
+.list_1 .fa{
+	
+	color:aliceblue;
+	
+}
+.list_1{
+	list-style: none;
+}
+.colume_1{
+	padding-left: 20px;
+	float: right;}
+	.colume_2{
+	padding-left: 30px;
+	float: left;
+   
+}
+#second_div_parent{
+
+	
+}
+.clearfix:after {
+	height: 20px;
+	margin-top: 0px;
+	margin: 0px;
+    content: "";
+    clear: both;
+    display: table;
+}
+.background{
+	
+	background-color: red;
+	
+}
+.background1{
+	
+	background-color: blue;
+	
+}
+.margin{
+	background-color: blue
+	
+	margin: 0px;
+}
+p{
+	color: aliceblue;
+	margin: 0px;
+	
+}
+list_1 div li.a{
+	color: aliceblue;
+}
+.wd
+{
+	width: 200px;
+}
+.search{
+	margin-right: 30px;
+	
+	
+	width: 600px;
+	height: 30px;
+	
+}
+.icon{background-size: 100% 100%;
+	width: 20px;
+	height: 30px;
+	background-image: url("../pic/flip_icon.png")
+
+	
+}
+.ra
+{
+	height: 30px;
+	width: 100px;
+}
+.back{
+	height: 30px;
+	width: 50px;
+	margin-right: 20px;
+	background-color: darkviolet;
+	color:aliceblue;
+}
+.button{
+	
+	background color:;
+}
